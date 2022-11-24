@@ -27,12 +27,12 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-4926151291748842/3617816469",
+"ADMOB_INTER" : "ca-app-pub-4926151291748842/2940279173",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
+"HPK_ALIENDROID" : "Pinjaman",
+"HPK_ADMOB1" : "Pengacara",
+"HPK_ADMOB2" : "Hosting Murah",
 "HPK_ADMOB3" : "bank jago",
 "HPK_ADMOB4" : "telkomsel",
 "HPK_ADMOB5" : "donasi",
