@@ -27,14 +27,14 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-4926151291748842/4528105319",
+"ADMOB_INTER" : "ca-app-pub-4926151291748842/1099177958",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
+"HPK_ALIENDROID" : "Hosting Murah",
+"HPK_ADMOB1" : "Hosting Gratis",
+"HPK_ADMOB2" : "Jenius",
+"HPK_ADMOB3" : "pengacara",
+"HPK_ADMOB4" : "Kredit",
 "HPK_ADMOB5" : "donasi",
 
 "UNITY_BANNER" : "banner",
@@ -74,10 +74,10 @@ coba deh kamu donwload sekrang juga
 
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sinonggidev",
 
 "REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=Sinonggidev"
 
 
   }
