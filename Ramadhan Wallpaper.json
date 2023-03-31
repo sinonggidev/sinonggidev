@@ -54,37 +54,37 @@
     {
       "id": 1,
       "name_category": "Al Aqsa",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Alaqsa18.jpg"
 
     },
         {
       "id": 2,
       "name_category": "Hagia",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Hagia33.jpg"
 
     },
         {
       "id": 3,
       "name_category": "Makah",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Makah17.jpg"
 
     },
     {
       "id": 4,
       "name_category": "Mosque",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Mosque35.jpg"
 
     },
     {
       "id": 5,
       "name_category": "Ramadhan",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Ramadhan03.jpg"
 
     },
     {
       "id": 6,
       "name_category": "Zayed",
-      "image": "file:///android_asset/image/ramadhan02.jpg"
+      "image": "file:///android_asset/image/Zayed37.jpg"
 
     }
   ],
